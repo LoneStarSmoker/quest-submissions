@@ -13,7 +13,7 @@ Ch. 1 Day 2
 
 Answer 1. Safety and Security; Clarity; Approachability; Developer Experience; Resource Oriented Programming
 
-Answer 2. 
+Answer 2. Safety and Security -  Clarity - Approachability - Developer Experience -
 
 Ch. 2 Day 1
 ![Web capture_8-6-2022_164655_play onflow org](https://user-images.githubusercontent.com/104794621/172723295-75ea01c3-128c-4781-84d9-608e1722d0e2.jpeg)
